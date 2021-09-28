@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-material-todo-app/static/css/main.5a8bbd64.chunk.css",
-    "main.js": "/react-material-todo-app/static/js/main.534d64fc.chunk.js",
-    "main.js.map": "/react-material-todo-app/static/js/main.534d64fc.chunk.js.map",
+    "main.js": "/react-material-todo-app/static/js/main.5b13b508.chunk.js",
+    "main.js.map": "/react-material-todo-app/static/js/main.5b13b508.chunk.js.map",
     "runtime-main.js": "/react-material-todo-app/static/js/runtime-main.4ea95fa2.js",
     "runtime-main.js.map": "/react-material-todo-app/static/js/runtime-main.4ea95fa2.js.map",
     "static/js/2.552249b9.chunk.js": "/react-material-todo-app/static/js/2.552249b9.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.4ea95fa2.js",
     "static/js/2.552249b9.chunk.js",
     "static/css/main.5a8bbd64.chunk.css",
-    "static/js/main.534d64fc.chunk.js"
+    "static/js/main.5b13b508.chunk.js"
   ]
 }
