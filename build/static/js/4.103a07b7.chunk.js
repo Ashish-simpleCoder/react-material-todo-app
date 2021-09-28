@@ -1,0 +1,2 @@
+(this.webpackJsonp1_material_note=this.webpackJsonp1_material_note||[]).push([[4],{17:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return r}));var o=n(1),c=n(3),s=n(0),i=Object(o.lazy)((function(){return n.e(3).then(n.bind(null,16))}));function r(){var t=Object(o.useContext)(c.a),e=t.todos;t.setTodos;return Object(s.jsx)("section",{id:"todo_output",children:Object(s.jsx)(o.Suspense,{fallback:Object(s.jsx)("h1",{children:"loading..."}),children:e.map((function(t,e){return Object(s.jsx)(i,{todo:t},e)}))})})}}}]);
+//# sourceMappingURL=4.103a07b7.chunk.js.map

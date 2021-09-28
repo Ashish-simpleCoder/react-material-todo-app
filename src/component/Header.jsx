@@ -4,7 +4,7 @@ export default function Header(){
     }
     return(
         <header>
-            <h3>Todo App (Vanilla JS)</h3>
+            <h3>Todo App (React JS)</h3>
             <button id='theme_toggler' onClick={toggleTheme}>🌞</button>
         </header>
     )
